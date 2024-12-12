@@ -6,6 +6,8 @@ public class SumaNumeros {
 		
 		//El programa lo que hace es recibir dos valores y luego los suma para luego imprimir la operacion
 		
+		//Cambio realizado desde rama Feature
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.print("Ingresa el primer número: ");
