@@ -10,6 +10,13 @@ public class SumaNumeros {
 		
 		//Comentario despues de realizar fusion entre ramas
 		
+		
+		/**
+		 * @author Sergi
+		 * @version 1.0
+		 */
+		
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.print("Ingresa el primer número: ");
@@ -19,6 +26,12 @@ public class SumaNumeros {
 		int numero2 = scanner.nextInt();
 		
 		int suma = numero1 + numero2;
+		
+		/**
+		 * @param numero1 primer numero
+		 * @param numero2 segundo numero
+		 * @return la suma de numero1 y numero2
+		 */
 		
 		System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 	}
