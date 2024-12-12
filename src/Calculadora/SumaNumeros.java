@@ -8,6 +8,8 @@ public class SumaNumeros {
 		
 		//Cambio realizado desde rama Feature
 		
+		//Comentario despues de realizar fusion entre ramas
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.print("Ingresa el primer número: ");
